@@ -52,6 +52,7 @@ p{
     height: 200px;
     margin: 0 10px;
     transition: all 0.5s;
+    border-radius: 20px;
 }
 
 .flex-box:hover{
